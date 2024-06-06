@@ -1,5 +1,5 @@
 #Captone Module 1
-#Riko Yoga Pratama
+#Riko
 # Perpustakaan - Manajemen Peminjaman Buku
 
 books = []
